@@ -11,6 +11,9 @@ and open the template in the editor.
         <title>Net-Centric Computing</title>
     </head>
     <body>
-       Hello World!
+        <div>
+            <span id="HW">Hello, World</span>
+        </div>
+        <img src="outerspace.jpg" alt="Failed to load" style="height: 300px; width: 600px">
     </body>
 </html>
