@@ -1,0 +1,25 @@
+
+/* 
+    Created on : Apr 4, 2017, 1:00:24 PM
+    Author     : Jordan
+*/
+
+body {
+    background-image: linear-gradient(black, white);
+    color: blue;
+    background-image: url("building.png");
+    background-repeat: no-repeat;
+}
+
+#CarIMG {
+    display: block;
+    left: 1300px;
+    top: 400px;
+    position: absolute;
+}
+
+#button {
+    position: absolute;
+    top: 200px;
+    left: 540px;
+}

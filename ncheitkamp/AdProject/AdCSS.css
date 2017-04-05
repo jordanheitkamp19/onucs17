@@ -1,0 +1,94 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 8, 2017, 9:29:13 PM
+    Author     : Jordan
+*/
+
+body{
+    color: white;
+    font-family: "Arial";
+}
+
+#backgroundDiv{
+    background-color: black;
+    height: 250px;
+    width: 425px;
+}
+
+#oddJobImg{
+    position: relative;
+    top: 20px;
+    left: 10px;
+    background-image: url(oddjobslogo);
+}
+
+#resComDiv{
+    position: absolute;
+    top: -4px;
+    left: 200px;
+    color: orange;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: -20px;
+    min-width: 300px;
+}
+
+#resPara{
+    margin-top: 30px;
+    margin-bottom: 2px;    
+    font-stretch: semi-condensed;
+}
+
+#and{
+    font-size: 32px;
+}
+
+#comPara{
+    margin-top: 0px;
+    font-stretch: semi-condensed;
+}
+
+#lowerSection{
+    color: white;
+    margin: auto;
+    position: relative;
+    text-align: center;
+    top: 70px;
+}
+
+#chirPara{
+    margin: auto;
+    margin-bottom: 3px;
+    font-family: Arial Narrow, Arial,sans-serif;
+    font-style: italic;
+    font-size: 19px;
+}
+
+#urlPara{
+    margin: auto;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: bolder;
+    font-family: Arial Rounded MT Bold,Helvetica Rounded,Arial,sans-serif;
+}
+
+#numberPara{
+    font-size: 50px;
+    margin-bottom: -11px;
+    margin-top: 10px;
+    font-weight: bolder;
+}
+
+#tinytext{
+    float: left;
+    position: relative;
+    color: white;
+    left: 3px;
+    font-size: 7px;
+}
+
+

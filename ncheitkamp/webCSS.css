@@ -1,0 +1,38 @@
+/* 
+    Created on : Mar 22, 2017, 6:54:08 PM
+    Author     : Jordan
+*/
+body {
+    background-color: antiquewhite; 
+}
+
+.list {
+    background-color: gray;
+    width: 550px;
+}
+
+#fhwcss {
+    color: yellow;
+}
+
+#ihwcss {
+    color: orange;
+}
+
+#hwcss {
+    color: red;
+}
+
+#adProject {
+    color: green;
+}
+
+#phpCalendar {
+    color: blue;
+}
+
+#javascriptPlay {
+    color: indigo;
+}
+
+

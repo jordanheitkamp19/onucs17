@@ -1,0 +1,27 @@
+
+/* 
+    Created on : Mar 6, 2017, 11:17:26 PM
+    Author     : Jordan
+*/
+
+body {
+    background-color: black;
+    color: white;
+}
+
+#mainDiv {
+    background-color: green;
+    color: black;
+    border: solid white 2px;
+    postition: relative;
+    top: 20px;
+    margin-right: 1100px;
+}
+
+#header {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: burlywood;
+}
+

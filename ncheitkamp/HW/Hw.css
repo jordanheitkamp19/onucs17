@@ -1,0 +1,42 @@
+
+/* 
+    Created on : Jan 21, 2017, 12:12:35 AM
+    Author     : Jordan
+*/
+body{
+   background-color: black;
+   background-image: url(outerspace);
+   background-image: radial-gradient(circle, white, black);
+   background-repeat: no-repeat;
+   text-align: center;
+   font-size: xx-large; 
+}
+
+#HW
+{
+    border-style: dotted;
+    color: black;
+    border-color:  gray;
+}
+
+div
+{
+    margin: 0px 20px 30px 20px;
+    padding: 1px 40px 5px 40px;
+}
+
+#filler
+{
+    color: yellow;
+    text-align: justify;
+    background-color: blue;
+    border-radius: 50%;
+}
+
+.outerspace.jpg
+{
+    image-resolution: from-image;
+    align-content: center;
+
+}
+
